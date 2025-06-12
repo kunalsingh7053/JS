@@ -8,3 +8,9 @@ This is a simple JavaScript project built using HTML, CSS, and Vanilla JavaScrip
 - CSS3  
 - JavaScript (ES6+)
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kunalsingh7053/JS.git
+   
